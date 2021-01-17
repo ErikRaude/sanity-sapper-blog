@@ -33,10 +33,10 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>dms</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Great</h1>
 
 <figure>
 	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svelte" x="0px" y="0px" viewBox="0 0 519 139" style="enable-background:new 0 0 519 139;" xml:space="preserve">
@@ -56,7 +56,7 @@
 	<path class="st2" d="M438.7,39.8h25.1c14.6,0,19.2,8.7,19.2,17.6c0,6.9-3.8,14.5-12.9,16.9l12.3,25.1h-10.1L460.5,75h-12.9v24.4   h-8.9V39.8z M464,66.5c7.4,0,9.9-4.5,9.9-9.1c0-4.2-2-9.1-9.9-9.1h-16.4v18.2H464z"/>
 </g>
 </svg>
-	<figcaption>HIGH FIVE!</figcaption>
+	<figcaption>HIGH ten!</figcaption>
 </figure>
 
 <p><strong>Go to <a href="/blog">/blog</a> to see content loaded from <a href="https://www.sanity.io">Sanity</a></strong></p>

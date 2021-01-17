@@ -29,7 +29,7 @@
 	<title>Blog</title>
 </svelte:head>
 
-<h1>Recent posts</h1>
+<h1>Hello volks</h1>
 
 <ul>
 	{#each posts as post}
